@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load the CSV file
-file_path = "C:\]Users\\Nagbhushan_Pai\\Desktop\\DeskTOP\\Arasu work\\batch_reactor\\Test_Signal_Data.csv"
+file_path = "C:\\Users\\Nagbhushan_Pai\\Desktop\\DeskTOP\\Arasu work\\batch_reactor\\Test_Signal_Data.csv"
 data = pd.read_csv(file_path)
 
 # If there's a 'Time' or 'Sampling time' column, use it as x-axis
