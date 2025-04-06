@@ -27,5 +27,5 @@ plt.legend()
 plt.grid(True)
 plt.tight_layout()
 
-plt.savefig("plot_output.png")  # Save the plot
+plt.savefig("plot_output2.png")  # Save the plot
 plt.show()
